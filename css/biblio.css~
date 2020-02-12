@@ -1,0 +1,52 @@
+.french_last_name {
+  font-variant: small-caps;
+}
+
+.publications li {
+  list-style-type: none;
+  margin-bottom: 1ex;
+  clear: left;
+}
+
+.biblio_icon {
+  float: left;
+  display: block;
+  padding: 0 .5em 1ex;
+}
+
+h3, h4 {
+  clear: left;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+#caption {
+  margin: 0;
+  padding: 0 0.4em;
+  line-height: 1.5em;
+}
+
+
+#caption li {
+  margin: 0;
+  list-style-type: none;
+  display: inline;
+  padding-right: 1em;
+/*  white-space: nowrap; */
+  font-size: smaller;
+}
+
+#caption li img {
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
+
+.menu-topic li { display: inline-block; margin: 0 1.2em; list-style-type: none; font-family: sans-serif; font-weight: bold; }
+
+.menu-topic {line-height:1.5em; margin: .5em 3em 0; padding: .5em 0; text-align: center; border: solid 1px black; border-style: solid none; background-color: rgba(255,255,255,.4); }
+
+.sep { visibility: hidden; clear: both; }
+
